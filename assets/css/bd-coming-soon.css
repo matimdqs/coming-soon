@@ -16,10 +16,8 @@ body {
     height: 150px; }
   @media (max-width: 767px) {
     .navbar-brand img {
-      height: 100px; } }
-  @media (max-width: 374px) {
-    .navbar-brand img {
-      padding-bottom: 15px; } }
+      height: 100px;
+      padding-bottom: 10px; } }
 
 .navbar-dark {
   padding-top: 35px;

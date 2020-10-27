@@ -21,13 +21,8 @@ body {
     @media (max-width: 767px) {
         img {
             height: 100px;
+            padding-bottom: 10px;
         }    
-    }
-
-    @media (max-width: 374px) {
-        img {
-            padding-bottom: 15px;
-        }
     }
 }
 .navbar-dark {
