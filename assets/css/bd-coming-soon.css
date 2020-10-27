@@ -17,6 +17,9 @@ body {
   @media (max-width: 767px) {
     .navbar-brand img {
       height: 100px; } }
+  @media (max-width: 374px) {
+    .navbar-brand img {
+      padding-bottom: 15px; } }
 
 .navbar-dark {
   padding-top: 35px;
