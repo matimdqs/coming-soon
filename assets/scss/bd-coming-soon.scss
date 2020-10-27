@@ -15,8 +15,14 @@ body {
     margin-right: 0;
 
     img {
-        height: 21px;
+        height: 150px;
     }
+
+    @media (max-width: 767px) {
+        img {
+            height: 100px;
+        }      
+    }    
 }
 .navbar-dark {
     padding-top: 35px;

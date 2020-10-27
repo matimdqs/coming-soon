@@ -13,7 +13,10 @@ body {
 .navbar-brand {
   margin-right: 0; }
   .navbar-brand img {
-    height: 21px; }
+    height: 150px; }
+  @media (max-width: 767px) {
+    .navbar-brand img {
+      height: 100px; } }
 
 .navbar-dark {
   padding-top: 35px;
